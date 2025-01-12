@@ -1,7 +1,6 @@
 # mahbubi
 
 <h1 align="center">Hi 👋, I'm Mahbubi</h1>
-<br></br>
 <h2 align="center">I'm BackEnd Developer</h2>
   <br></br>
 <div align="center">
