@@ -42,7 +42,9 @@
       <a href="https://code.visualstudio.com/ target="_blank" rel="Visual Studio Code"> 
     <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi45&show_icons=true&locale=en&layout=compact&theme=radical" alt="mahbubi45" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi45&show_icons=true&locale=en&layout=compact&theme=radical" alt="mahbubi45" /> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi45&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=60)
+
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&locale=en" alt="mahbubi45" /></p> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&theme=radical)  -->
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahbubi45&show_icons=true&theme=radical"/>
